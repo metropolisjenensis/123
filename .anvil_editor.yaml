@@ -1,8 +1,7 @@
 unique_ids:
   forms:
-    Form1: PDJR3WE5PBHSYH6JPEJMC3D5NSW4ZSJY
-  modules:
-    Form1.summarization: '1699970672435344206179016.7263'
+    Form1: '1702388856524397738281981.5212'
+  modules: {}
   server_modules: {}
   assets:
     Standart.pptx: '1700062086727174492471494.83527'
